@@ -1,19 +1,15 @@
 {
-  "name": "todo-app",
+  "name": "todo-app-lab",
   "version": "1.0.0",
-  "main": "app.js",
+  "description": "Prosta aplikacja",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "jest"
+    "start": "node index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "jest": "^29.0.0",
-    "supertest": "^6.3.0"
   }
-"scripts": {
-  "start": "node index.js"
-}
 }
